@@ -1,808 +1,3232 @@
+1
+00:00:00,000 --> 00:00:05,120
 What if I told you that, um, basically every single thing you value your ambition,
+
+2
+00:00:05,120 --> 00:00:08,960
 your deepest love for your family, your desire to be a good person.
+
+3
+00:00:08,960 --> 00:00:13,200
 Or even just, you know, your appreciation for a beautiful sunset is functionally
+
+4
+00:00:13,200 --> 00:00:16,080
 no different than a beaver's blind instinct to build a dam.
+
+5
+00:00:16,080 --> 00:00:19,280
 Oh, wow. Yeah, that is, that's heavy right out of the gate.
+
+6
+00:00:19,280 --> 00:00:22,880
 Right. That there is absolutely no cosmic weight to any of it. None.
+
+7
+00:00:22,880 --> 00:00:25,600
 It's a completely terrifying proposition, honestly.
+
+8
+00:00:25,600 --> 00:00:26,080
 Yeah.
+
+9
+00:00:26,080 --> 00:00:30,080
 Because we spend our entire lives convinced that the concrete we're standing on,
+
+10
+00:00:30,880 --> 00:00:33,280
 you know, our morals, our loves, our goals.
+
+11
+00:00:33,280 --> 00:00:36,480
 We think that concrete was poured by the universe itself.
+
+12
+00:00:36,480 --> 00:00:38,560
 We assume there's a master blueprint somewhere.
+
+13
+00:00:38,560 --> 00:00:39,680
 Yeah. We really do.
+
+14
+00:00:39,680 --> 00:00:42,480
 And welcome to the deep dive, by the way.
+
+15
+00:00:42,480 --> 00:00:47,280
 Today for you listening, we are basically taking a sledgehammer to that exact foundation,
+
+16
+00:00:47,280 --> 00:00:49,040
 a very methodical sledgehammer.
+
+17
+00:00:49,040 --> 00:00:54,240
 Exactly. We're exploring a profoundly reflective and honestly deeply unnerving essay by
+
+18
+00:00:54,320 --> 00:00:59,120
 Simgi Yun. It's titled Coming Back to the Human A-Sequel to Why Do We Live.
+
+19
+00:00:59,120 --> 00:01:02,640
 And I'll be perfectly honest with you, getting through this material requires a bit of
+
+20
+00:01:03,520 --> 00:01:05,040
 philosophical stamina.
+
+21
+00:01:05,040 --> 00:01:06,640
 That's a good way to put it, stamina.
+
+22
+00:01:07,280 --> 00:01:10,640
 You have to be willing to look at the things you hold absolutely sacred
+
+23
+00:01:11,200 --> 00:01:13,680
 and just watch them dissolve under a microscope.
+
+24
+00:01:13,680 --> 00:01:15,280
 Which is necessary, right?
+
+25
+00:01:15,280 --> 00:01:18,640
 Because of the premise the author established in their previous work,
+
+26
+00:01:18,640 --> 00:01:22,320
 we kind of have to start there to understand the stakes of this essay.
+
+27
+00:01:22,400 --> 00:01:26,160
 Right. The original argument was that the meaning of life isn't something you discover.
+
+28
+00:01:26,160 --> 00:01:30,000
 Like you don't just wander around the desert waiting to unearth a glowing box of meaning.
+
+29
+00:01:30,000 --> 00:01:31,760
 Like it's buried treasure or something.
+
+30
+00:01:31,760 --> 00:01:34,960
 Exactly. It's not a treasure. It's something you actively create.
+
+31
+00:01:34,960 --> 00:01:38,560
 Which, you know, sounds super liberating at first glance.
+
+32
+00:01:38,560 --> 00:01:41,600
 It shifts the burden off the universe and onto you.
+
+33
+00:01:41,600 --> 00:01:44,960
 You don't have to beg the cosmos for your purpose. You just build it yourself.
+
+34
+00:01:44,960 --> 00:01:50,400
 But taking that idea seriously, like really seriously opens up a pretty massive sinkhole.
+
+35
+00:01:50,400 --> 00:01:55,600
 Yeah, a terrifying one. Because if the universe isn't handing out meaning,
+
+36
+00:01:55,600 --> 00:01:57,120
 and it's entirely up to us,
+
+37
+00:01:58,160 --> 00:02:00,160
 what actually deserves to be honored.
+
+38
+00:02:00,160 --> 00:02:02,400
 That is the ultimate dilemma right there.
+
+39
+00:02:02,400 --> 00:02:04,880
 If you are the sole architect of your values,
+
+40
+00:02:04,880 --> 00:02:09,200
 and there is no like universal blueprint to check your work against,
+
+41
+00:02:09,200 --> 00:02:10,640
 what justifies anything?
+
+42
+00:02:10,640 --> 00:02:13,120
 Why build a hospital instead of a casino, right?
+
+43
+00:02:13,120 --> 00:02:16,320
 Exactly. Why pour your heart into raising children instead of just
+
+44
+00:02:16,320 --> 00:02:18,560
 staring blankly at a wall for 80 years?
+
+45
+00:02:18,560 --> 00:02:20,560
 Logically, it's one actually better than the other.
+
+46
+00:02:21,120 --> 00:02:25,360
 So today, we're going to use cold razor sharp logic to dismantle all of it.
+
+47
+00:02:25,360 --> 00:02:28,000
 We're going to strip away the romance of human connection,
+
+48
+00:02:28,000 --> 00:02:30,480
 tear down the whole concept of human greatness,
+
+49
+00:02:30,480 --> 00:02:34,080
 and just look directly into the absolute void of meaninglessness.
+
+50
+00:02:34,080 --> 00:02:35,120
 It sounds bleak, I know.
+
+51
+00:02:35,760 --> 00:02:38,800
 But, and this is why this deep dive is so vital,
+
+52
+00:02:38,800 --> 00:02:40,400
 we aren't staying in the void.
+
+53
+00:02:40,400 --> 00:02:45,120
 We're going to find a wildly unexpected, deeply profound reason to care about
+
+54
+00:02:45,120 --> 00:02:46,800
 this messy human experience anyway.
+
+55
+00:02:47,280 --> 00:02:49,520
 We just have to survive the dismantling first.
+
+56
+00:02:49,520 --> 00:02:52,160
 And before we even pick up the tools to do that,
+
+57
+00:02:52,160 --> 00:02:55,040
 the author hits us with a massive structural roadblock.
+
+58
+00:02:55,040 --> 00:02:56,400
 Yeah, the meta problem.
+
+59
+00:02:56,400 --> 00:02:56,720
 Right.
+
+60
+00:02:57,520 --> 00:03:00,160
 The very tool we are using right now,
+
+61
+00:03:00,160 --> 00:03:02,960
 the English language, the actual words forming in your mind,
+
+62
+00:03:02,960 --> 00:03:04,080
 as you listen to us,
+
+63
+00:03:04,080 --> 00:03:09,440
 might be fundamentally incapable of grasping the truth we're hunting for here.
+
+64
+00:03:09,440 --> 00:03:11,520
 The language trap, I love this part,
+
+65
+00:03:11,520 --> 00:03:14,480
 because it's like trying to catch water with a fishnet.
+
+66
+00:03:14,480 --> 00:03:16,800
 You can see the water, you can describe the water,
+
+67
+00:03:16,800 --> 00:03:19,040
 but the net itself just can't hold it.
+
+68
+00:03:19,040 --> 00:03:21,360
 The author grounds this whole problem
+
+69
+00:03:21,360 --> 00:03:23,360
 by bringing in Ludwig Wittgenstein.
+
+70
+00:03:23,360 --> 00:03:26,320
 Oh, man, Wittgenstein.
+
+71
+00:03:26,320 --> 00:03:30,080
 Arguably the most intense philosopher of language from the 20th century.
+
+72
+00:03:30,080 --> 00:03:32,640
 He wrote this notoriously dense book that tracked at us,
+
+73
+00:03:32,640 --> 00:03:35,040
 which is basically impossible to read casually.
+
+74
+00:03:35,040 --> 00:03:35,760
 Oh, completely.
+
+75
+00:03:35,760 --> 00:03:37,360
 And he concluded it with this famous line,
+
+76
+00:03:37,920 --> 00:03:39,680
 where of one cannot speak,
+
+77
+00:03:39,680 --> 00:03:41,520
 there of one must be silent.
+
+78
+00:03:41,520 --> 00:03:42,960
 So a lot of thinkers read that line,
+
+79
+00:03:43,040 --> 00:03:47,120
 and they assume Wittgenstein reached the summit of human thought.
+
+80
+00:03:47,120 --> 00:03:49,440
 They think he arrived at the same mystical,
+
+81
+00:03:49,440 --> 00:03:52,400
 transcendent silence that Eastern contemplative traditions
+
+82
+00:03:52,400 --> 00:03:53,760
 have been teaching for millennia.
+
+83
+00:03:53,760 --> 00:03:56,240
 But the author makes a brilliant distinction here.
+
+84
+00:03:56,240 --> 00:03:59,120
 Wittgenstein didn't actually cross into the silence.
+
+85
+00:03:59,120 --> 00:04:01,120
 He just drew a map of the noise.
+
+86
+00:04:01,120 --> 00:04:03,440
 He mapped the boundary from the inside.
+
+87
+00:04:03,440 --> 00:04:04,640
 Exactly.
+
+88
+00:04:04,640 --> 00:04:09,520
 He used logic to push language to its absolute breaking point,
+
+89
+00:04:10,080 --> 00:04:13,280
 drew a circle around everything we can rationally talk about,
+
+90
+00:04:13,280 --> 00:04:14,800
 and basically said,
+
+91
+00:04:14,800 --> 00:04:17,200
 OK, outside this circle is the unspeakable.
+
+92
+00:04:17,200 --> 00:04:19,120
 Don't even try to go there.
+
+93
+00:04:19,120 --> 00:04:22,160
 He's like a cartographer drawing dragons at the edge of the map,
+
+94
+00:04:22,160 --> 00:04:25,440
 but he never actually sails the ship into those uncharted waters.
+
+95
+00:04:25,440 --> 00:04:28,960
 He stays totally safe inside the realm of logic.
+
+96
+00:04:28,960 --> 00:04:32,560
 He's essentially saying that language is a logical picture of facts.
+
+97
+00:04:33,200 --> 00:04:36,720
 And since the meaning of the world lies outside the facts of the world,
+
+98
+00:04:36,720 --> 00:04:38,080
 language just can't touch it.
+
+99
+00:04:38,080 --> 00:04:39,680
 It's a brilliant diagnosis.
+
+100
+00:04:39,680 --> 00:04:42,000
 It is, but it's still just a diagnosis.
+
+101
+00:04:42,000 --> 00:04:43,840
 The whole climbing of a ladder,
+
+102
+00:04:43,840 --> 00:04:46,880
 then throwing away the ladder that Wittgenstein talks about,
+
+103
+00:04:46,880 --> 00:04:49,520
 it remains a purely intellectual exercise.
+
+104
+00:04:49,520 --> 00:04:52,160
 Right, to actually experience what lies beyond that boundary,
+
+105
+00:04:52,160 --> 00:04:54,800
 we have to look at the philosophical escalation that happens
+
+106
+00:04:54,800 --> 00:04:57,360
 when thinkers try to break out of the map entirely.
+
+107
+00:04:57,360 --> 00:04:58,800
 Unless trace that escalation,
+
+108
+00:04:58,800 --> 00:05:00,960
 because the author lays it up beautifully,
+
+109
+00:05:00,960 --> 00:05:03,600
 we start with Wittgenstein pointing at the boundary.
+
+110
+00:05:03,600 --> 00:05:05,760
 The next massive leap is Edmund Hussle.
+
+111
+00:05:05,760 --> 00:05:07,200
 The father of phenomenology.
+
+112
+00:05:07,200 --> 00:05:09,200
 Right. Hussle isn't just drawing a map.
+
+113
+00:05:09,200 --> 00:05:13,040
 He's basically inventing a new way to use your brain.
+
+114
+00:05:13,040 --> 00:05:15,360
 He develops this concept called the epique,
+
+115
+00:05:15,360 --> 00:05:19,120
 which is usually translated as bracketing the natural attitude, right?
+
+116
+00:05:19,120 --> 00:05:22,240
 Yeah, bracketing, which I know sounds like an accounting term,
+
+117
+00:05:22,240 --> 00:05:24,080
 but let's actually walk through what that feels like.
+
+118
+00:05:24,080 --> 00:05:26,400
 Yeah, please, because it's a weird concept.
+
+119
+00:05:26,400 --> 00:05:28,080
 So normally you move through the world,
+
+120
+00:05:28,880 --> 00:05:30,480
 taking reality totally of a granted.
+
+121
+00:05:31,280 --> 00:05:33,840
 You look at, say, a coffee cup on your desk,
+
+122
+00:05:34,720 --> 00:05:36,800
 and your brain instantly labels it.
+
+123
+00:05:37,360 --> 00:05:38,880
 My favorite ceramic cup.
+
+124
+00:05:38,880 --> 00:05:40,320
 It holds hot liquid.
+
+125
+00:05:40,320 --> 00:05:42,400
 It exists subjectively in space.
+
+126
+00:05:42,400 --> 00:05:46,240
 You are basically drowning in assumptions and histories and categories.
+
+127
+00:05:46,240 --> 00:05:47,280
 You're not seeing the cup.
+
+128
+00:05:47,280 --> 00:05:49,040
 You're seeing the concept of a cup.
+
+129
+00:05:49,040 --> 00:05:49,920
 Exactly.
+
+130
+00:05:49,920 --> 00:05:53,680
 Hussle's epique is the practice of mentally putting all those concepts.
+
+131
+00:05:53,680 --> 00:05:55,200
 The ceramic part, the utility,
+
+132
+00:05:55,200 --> 00:05:59,120
 even the belief that the cup exists independently of you into brackets.
+
+133
+00:05:59,120 --> 00:06:00,880
 You suspend your judgment entirely.
+
+134
+00:06:00,880 --> 00:06:02,960
 Like pausing the mental software.
+
+135
+00:06:02,960 --> 00:06:03,920
 Yes.
+
+136
+00:06:03,920 --> 00:06:06,800
 You stop analyzing what the object is in the real world.
+
+137
+00:06:07,360 --> 00:06:10,240
 And you force your attention onto the pure,
+
+138
+00:06:10,240 --> 00:06:14,080
 raw phenomenon of the object appearing in your consciousness.
+
+139
+00:06:14,080 --> 00:06:16,080
 It's a massive mental shift.
+
+140
+00:06:16,080 --> 00:06:19,360
 You're no longer playing Vickinstein's logic game at all.
+
+141
+00:06:19,360 --> 00:06:24,000
 You're doing something closer to like an intense,
+
+142
+00:06:24,000 --> 00:06:25,760
 hyper-focused meditation.
+
+143
+00:06:25,760 --> 00:06:28,080
 You are training a specific mode of attention
+
+144
+00:06:28,080 --> 00:06:29,600
 to bypass the labels.
+
+145
+00:06:29,600 --> 00:06:32,000
 And that leads directly to the next escalation,
+
+146
+00:06:32,000 --> 00:06:33,120
 which is Martin Heidegger,
+
+147
+00:06:33,120 --> 00:06:35,040
 who is actually Hussle's student.
+
+148
+00:06:35,040 --> 00:06:36,560
 Heidegger takes this practice
+
+149
+00:06:36,560 --> 00:06:39,600
 and applies it to the very nature of existence itself.
+
+150
+00:06:39,600 --> 00:06:41,760
 He introduces concepts like Alaskan height,
+
+151
+00:06:41,760 --> 00:06:44,880
 which translates roughly to letting B or releasement.
+
+152
+00:06:44,880 --> 00:06:48,720
 Heidegger wanted to dynamite the entire history of Western philosophy, didn't he?
+
+153
+00:06:48,720 --> 00:06:51,280
 Because he thought it was obsessed with categorizing things
+
+154
+00:06:51,280 --> 00:06:53,440
 as objects to be studied by subjects.
+
+155
+00:06:53,440 --> 00:06:54,480
 He really did.
+
+156
+00:06:54,480 --> 00:06:57,440
 He wanted to get before the split between the subject and the object.
+
+157
+00:06:57,440 --> 00:06:59,440
 Okay, so think about the moments in your life
+
+158
+00:06:59,440 --> 00:07:01,920
 when you are completely immersed in an activity.
+
+159
+00:07:01,920 --> 00:07:06,000
 Maybe you're playing a piano or surfing or coding in a deep flow state.
+
+160
+00:07:06,080 --> 00:07:07,760
 Flow state is the perfect example.
+
+161
+00:07:07,760 --> 00:07:11,280
 In those moments, there is no you analyzing the piano.
+
+162
+00:07:11,280 --> 00:07:13,120
 The boundary just vanishes.
+
+163
+00:07:13,120 --> 00:07:14,960
 There is just the music happening.
+
+164
+00:07:14,960 --> 00:07:16,480
 Heidegger believed that this state
+
+165
+00:07:16,480 --> 00:07:18,000
 getting behind that artificial wall
+
+166
+00:07:18,000 --> 00:07:20,080
 between observer and observed
+
+167
+00:07:20,080 --> 00:07:24,080
 was the only way to glimpse being with a capital B.
+
+168
+00:07:24,080 --> 00:07:26,160
 It's really no surprise that in his later years,
+
+169
+00:07:26,160 --> 00:07:29,040
 his work started to deeply echo East Asian thought,
+
+170
+00:07:29,040 --> 00:07:31,200
 especially Taoist philosophy.
+
+171
+00:07:31,200 --> 00:07:34,880
 Which brings us to the absolute peak of this progression in the essay.
+
+172
+00:07:34,880 --> 00:07:37,840
 We go from Vickinstein mapping the limits of words
+
+173
+00:07:37,840 --> 00:07:41,920
 to hostile suspending labels to Heidegger dissolving the observer
+
+174
+00:07:41,920 --> 00:07:44,000
 and finally to the Buddha.
+
+175
+00:07:44,000 --> 00:07:47,760
 And the author argues that the Buddha wasn't just theorizing about any of this.
+
+176
+00:07:47,760 --> 00:07:50,480
 The Buddha was pure unadulterated practice.
+
+177
+00:07:50,480 --> 00:07:52,960
 There is this stunning historical detail
+
+178
+00:07:52,960 --> 00:07:54,960
 the author includes to illustrate this.
+
+179
+00:07:54,960 --> 00:07:57,440
 After wandering and teaching for 45 years,
+
+180
+00:07:57,440 --> 00:08:00,160
 delivering thousands of discourses to his followers,
+
+181
+00:08:00,160 --> 00:08:02,960
 the Buddha is said to have declared on his deathbed.
+
+182
+00:08:03,040 --> 00:08:04,960
 I have not said a single word.
+
+183
+00:08:04,960 --> 00:08:05,920
 Which is wild.
+
+184
+00:08:05,920 --> 00:08:09,360
 Right. If you look at that through Vickinstein's purely logical lens,
+
+185
+00:08:09,360 --> 00:08:11,440
 it's nonsense. It's a blatant contradiction.
+
+186
+00:08:11,440 --> 00:08:13,600
 The guy talked for four and a half decades.
+
+187
+00:08:13,600 --> 00:08:16,080
 But if you understand the escalation we just mapped out,
+
+188
+00:08:16,720 --> 00:08:19,280
 it is the most coherent thing he could possibly say.
+
+189
+00:08:20,160 --> 00:08:23,840
 Those 45 years of speaking were never meant to be objective truths.
+
+190
+00:08:24,720 --> 00:08:27,360
 They were, in the classic ven metaphor,
+
+191
+00:08:27,360 --> 00:08:29,280
 merely fingers pointing at the moon.
+
+192
+00:08:29,760 --> 00:08:31,680
 The words are the finger.
+
+193
+00:08:31,680 --> 00:08:34,240
 The direct experience of reality is the moon.
+
+194
+00:08:34,240 --> 00:08:37,600
 If you stare at the finger, you miss the sky completely.
+
+195
+00:08:37,600 --> 00:08:40,400
 The author brings in the diamond sutra to drive this home.
+
+196
+00:08:40,400 --> 00:08:43,440
 It's perhaps the most famous text in Mahayana Buddhism.
+
+197
+00:08:43,440 --> 00:08:47,680
 And the entire sutra is a relentless assault on language using language.
+
+198
+00:08:47,680 --> 00:08:50,000
 Exactly. It repeats over and over
+
+199
+00:08:50,000 --> 00:08:53,520
 that all forms or illusions that the Buddha has no fixed teaching,
+
+200
+00:08:53,520 --> 00:08:57,280
 that saying you have achieved enlightenment actually proves you haven't.
+
+201
+00:08:57,280 --> 00:09:01,120
 It operates entirely on the principle of direct seeing the Chinese character Guan.
+
+202
+00:09:01,120 --> 00:09:05,040
 Guan. It's perception without the filter of vocabulary.
+
+203
+00:09:05,520 --> 00:09:08,880
 So to bring this back to you, the listener, we have a problem here today.
+
+204
+00:09:08,880 --> 00:09:10,880
 We have this time together to do a deep dive.
+
+205
+00:09:10,880 --> 00:09:15,360
 And the only tool we have to connect with you is the very language we just proved is flawed.
+
+206
+00:09:15,360 --> 00:09:16,880
 We are in the language trap.
+
+207
+00:09:17,520 --> 00:09:20,160
 And the author acknowledges this trap openly in the text.
+
+208
+00:09:20,160 --> 00:09:22,720
 They write, I will use language in what follows.
+
+209
+00:09:22,720 --> 00:09:23,920
 I have no choice.
+
+210
+00:09:23,920 --> 00:09:25,920
 We are in the exact same boat.
+
+211
+00:09:26,000 --> 00:09:30,000
 We have to use the scaffolding of words to build these concepts for you.
+
+212
+00:09:30,000 --> 00:09:34,000
 But the critical takeaway for you listening is how you process what you're hearing.
+
+213
+00:09:34,480 --> 00:09:39,680
 The words we're using today are just the exhaust fumes of the actual realization.
+
+214
+00:09:39,680 --> 00:09:41,840
 Oh, I like that. The exhaust fumes.
+
+215
+00:09:41,840 --> 00:09:45,360
 Right. They are the footprints in the dirt, not the creature that left them.
+
+216
+00:09:45,360 --> 00:09:49,120
 So as we move into the actual dismantling of human meaning,
+
+217
+00:09:49,120 --> 00:09:55,360
 try to look past our syntax, look at the vast, terrifying, empty space the words are pointing toward.
+
+218
+00:09:55,360 --> 00:09:59,760
 With that caveat in place, we can pick up the actual instrument the author uses
+
+219
+00:09:59,760 --> 00:10:01,920
 to dissect human experience.
+
+220
+00:10:01,920 --> 00:10:05,200
 Because if words are flawed, what internal mechanism do we rely on?
+
+221
+00:10:05,200 --> 00:10:07,360
 The author chooses rational thinking.
+
+222
+00:10:07,360 --> 00:10:11,440
 But they immediately strict away all the romantic mythology we usually attach to it.
+
+223
+00:10:11,440 --> 00:10:14,720
 This was a major wake-up call for me reading the text.
+
+224
+00:10:14,720 --> 00:10:19,200
 We have this deep-seated, incredibly flattering self-image in Western culture.
+
+225
+00:10:19,840 --> 00:10:24,880
 We think of ourselves as these autonomous, free thinking captains of our own destiny.
+
+226
+00:10:24,880 --> 00:10:28,640
 We really believe our rationality makes us independent from the universe.
+
+227
+00:10:28,640 --> 00:10:31,600
 The author takes a sledgehammer to that illusion.
+
+228
+00:10:31,600 --> 00:10:34,080
 Strict autonomy simply does not exist.
+
+229
+00:10:34,080 --> 00:10:34,720
 It's a fiction.
+
+230
+00:10:35,600 --> 00:10:40,800
 You are an organism shaped by a relentless barrage of external forces,
+
+231
+00:10:40,800 --> 00:10:46,240
 your environment, your genetic inheritance, the specific grammatical structure of your native language.
+
+232
+00:10:46,240 --> 00:10:48,960
 The unspoken belief systems of your zip code.
+
+233
+00:10:48,960 --> 00:10:53,040
 Yes. All of these things have been stamped on your nervous system without your consent.
+
+234
+00:10:53,040 --> 00:10:56,080
 It really makes you question every original thought you've ever had.
+
+235
+00:10:56,080 --> 00:10:59,600
 Like, when I think I'm making a deeply personal independent choice,
+
+236
+00:10:59,600 --> 00:11:04,880
 I'm usually just executing a complex software program written by my culture and my biology.
+
+237
+00:11:04,880 --> 00:11:07,200
 Your originality is largely a mirage.
+
+238
+00:11:07,200 --> 00:11:09,680
 But wait, this is where I push back when I was reading.
+
+239
+00:11:09,680 --> 00:11:15,200
 If my free will is an illusion, and I'm basically just a meat computer running cultural software,
+
+240
+00:11:15,840 --> 00:11:18,160
 why bother trying to think rationally at all?
+
+241
+00:11:18,160 --> 00:11:20,560
 Aren't I just running on a pre-programmed track?
+
+242
+00:11:20,560 --> 00:11:21,600
 It's a fair question.
+
+243
+00:11:21,600 --> 00:11:24,640
 Why not just let your environment pull the levers and go to sleep at the wheel?
+
+244
+00:11:24,640 --> 00:11:25,520
 Exactly.
+
+245
+00:11:25,520 --> 00:11:29,840
 But the author's defense of rationality here is brilliantly unromantic.
+
+246
+00:11:29,840 --> 00:11:31,200
 It's pure pragmatism.
+
+247
+00:11:31,920 --> 00:11:36,240
 We don't use rationality because it grants us some magical metaphysical free will.
+
+248
+00:11:36,240 --> 00:11:42,240
 We use it because it's empirically the best tool for achieving very specific outcomes.
+
+249
+00:11:42,240 --> 00:11:44,640
 They lay out two concrete criteria.
+
+250
+00:11:44,640 --> 00:11:49,280
 We use reason because it maximizes our ability to make our own lives unfold
+
+251
+00:11:49,280 --> 00:11:50,960
 in ways we find desirable.
+
+252
+00:11:50,960 --> 00:11:56,080
 And secondly, it maximizes our ability to ensure our actions do good for humanity
+
+253
+00:11:56,080 --> 00:11:57,600
 and the broader universe.
+
+254
+00:11:57,600 --> 00:11:59,040
 Notice what's missing there, though.
+
+255
+00:11:59,040 --> 00:12:01,680
 The author isn't claiming that making your life desirable
+
+256
+00:12:01,680 --> 00:12:04,160
 is objectively true with a capital T.
+
+257
+00:12:04,160 --> 00:12:05,120
 No, not at all.
+
+258
+00:12:05,120 --> 00:12:07,040
 It's just saying, look, since you're here,
+
+259
+00:12:07,040 --> 00:12:10,480
 and since you clearly prefer feeling good over feeling terrible,
+
+260
+00:12:10,480 --> 00:12:13,360
 and preferring a functioning society over a collapsed one,
+
+261
+00:12:13,840 --> 00:12:17,200
 rationality is the sharpest tool in the shed to get you there.
+
+262
+00:12:17,200 --> 00:12:19,760
 The alternative is relying on emotional reasoning.
+
+263
+00:12:20,400 --> 00:12:22,960
 And the author issues a severe warning about that.
+
+264
+00:12:23,840 --> 00:12:28,640
 Relying on your emotions to decide what is honorable or meaningful is a total trap.
+
+265
+00:12:28,640 --> 00:12:32,720
 Because your emotions are the very things that have been programmed by your environment.
+
+266
+00:12:32,720 --> 00:12:33,360
 Exactly.
+
+267
+00:12:33,360 --> 00:12:36,320
 If you rely on a gut feeling to tell you what's noble,
+
+268
+00:12:36,320 --> 00:12:39,680
 your gut is just going to regurgitate whatever society fed it.
+
+269
+00:12:39,680 --> 00:12:43,360
 Right. Like if you're born into a hyper-militaristic society,
+
+270
+00:12:43,360 --> 00:12:46,880
 your emotions will naturally swell with pride at the thought of dying
+
+271
+00:12:46,880 --> 00:12:48,560
 in a completely pointless war.
+
+272
+00:12:48,560 --> 00:12:50,800
 Or if you're born into modern hustle culture,
+
+273
+00:12:50,800 --> 00:12:53,440
 your emotions will convince you that sacrificing your physical health
+
+274
+00:12:53,440 --> 00:12:56,080
 for a corporate promotion is the highest form of honor.
+
+275
+00:12:56,560 --> 00:12:59,520
 The author summarizes this with a chilling phrase.
+
+276
+00:12:59,520 --> 00:13:05,280
 Relying purely on inherited emotional responses is being thought by one's environment.
+
+277
+00:13:05,280 --> 00:13:06,960
 Being thought by one's environment.
+
+278
+00:13:07,600 --> 00:13:09,280
 You aren't generating thoughts.
+
+279
+00:13:09,280 --> 00:13:12,240
 The environment is using your brain to generate its thoughts.
+
+280
+00:13:12,240 --> 00:13:15,040
 Your mind is just a colony for cultural viruses.
+
+281
+00:13:15,040 --> 00:13:16,880
 So rationality is our scalpel.
+
+282
+00:13:17,440 --> 00:13:21,120
 It's the only instrument sharp enough to cut through the dense layers
+
+283
+00:13:21,120 --> 00:13:23,840
 of inherited programming and sever the puppet strings.
+
+284
+00:13:23,840 --> 00:13:25,760
 And that brings us to the core of the essay.
+
+285
+00:13:25,760 --> 00:13:26,640
 We have our scalpel.
+
+286
+00:13:27,280 --> 00:13:31,360
 The author asks us to take this tool of pragmatic rationality
+
+287
+00:13:31,360 --> 00:13:34,400
 and apply it ruthlessly to everything we consider sacred,
+
+288
+00:13:34,400 --> 00:13:37,120
 beautiful, and honorable in the human experience.
+
+289
+00:13:37,120 --> 00:13:38,640
 We are stepping into the dissolution.
+
+290
+00:13:38,640 --> 00:13:39,920
 We are falling into the void.
+
+291
+00:13:40,480 --> 00:13:44,560
 And the author goes straight for the throat by dissecting romantic love.
+
+292
+00:13:44,640 --> 00:13:45,680
 Yeah, they don't hold back.
+
+293
+00:13:45,680 --> 00:13:47,920
 Think about the pedestal we put romantic love on.
+
+294
+00:13:48,560 --> 00:13:51,920
 Thousands of years of poetry, Shakespeare, pop music.
+
+295
+00:13:51,920 --> 00:13:53,520
 Romeo and Juliet, dying for each other,
+
+296
+00:13:53,520 --> 00:13:56,640
 is basically the ultimate cultural symbol of nobility.
+
+297
+00:13:56,640 --> 00:14:00,560
 Love is supposedly this cosmic force that transcends time and space.
+
+298
+00:14:01,120 --> 00:14:02,560
 But let's apply this scalpel.
+
+299
+00:14:02,560 --> 00:14:02,880
 Yeah.
+
+300
+00:14:02,880 --> 00:14:04,720
 What happens when you look at romantic love
+
+301
+00:14:04,720 --> 00:14:07,040
 through the cold lens of rational analysis?
+
+302
+00:14:07,040 --> 00:14:08,960
 The poetry just evaporates.
+
+303
+00:14:08,960 --> 00:14:11,120
 And you were left with evolutionary biology.
+
+304
+00:14:11,120 --> 00:14:14,320
 It's just neurochemistry and DNA trying to propagate itself.
+
+305
+00:14:14,720 --> 00:14:19,040
 The intense gravitational pull you feel toward another human being
+
+306
+00:14:19,040 --> 00:14:21,440
 is a highly optimized survival mechanism.
+
+307
+00:14:22,400 --> 00:14:25,440
 We feel romantic love because the specific DNA sequences
+
+308
+00:14:25,440 --> 00:14:27,920
 that predisposed our early ancestors to bond,
+
+309
+00:14:27,920 --> 00:14:30,160
 stay together and protect their offspring
+
+310
+00:14:30,160 --> 00:14:34,000
 were the sequences that survived the brutal filter of natural selection.
+
+311
+00:14:34,000 --> 00:14:35,760
 The ancestors who didn't fall in love
+
+312
+00:14:35,760 --> 00:14:38,560
 who felt no biological urge to protect their mates,
+
+313
+00:14:38,560 --> 00:14:40,880
 they simply didn't pass on their genes.
+
+314
+00:14:40,880 --> 00:14:44,160
 Their indifference was bred out of the gene pool entirely.
+
+315
+00:14:44,160 --> 00:14:46,400
 So that mystical feeling of two souls
+
+316
+00:14:46,400 --> 00:14:48,080
 finding each other in the dark,
+
+317
+00:14:48,080 --> 00:14:51,200
 it's a blind, unthinking optimization process.
+
+318
+00:14:51,840 --> 00:14:53,680
 Juliet is just a biological vessel
+
+319
+00:14:53,680 --> 00:14:56,800
 for Romeo's genetic material to replicate and vice versa.
+
+320
+00:14:56,800 --> 00:14:59,920
 Which is such a brutally unromantic thing to say out loud.
+
+321
+00:14:59,920 --> 00:15:01,200
 Imagine telling your partner,
+
+322
+00:15:01,200 --> 00:15:04,720
 hey, my DNA just really wants to replicate with yours.
+
+323
+00:15:04,720 --> 00:15:05,760
 I wouldn't recommend it.
+
+324
+00:15:05,760 --> 00:15:07,840
 But the scalpel doesn't stop at romance.
+
+325
+00:15:07,840 --> 00:15:10,720
 It cuts through the entire spectrum of human emotion.
+
+326
+00:15:10,800 --> 00:15:14,400
 Joy, sorrow, righteous anger, empathy,
+
+327
+00:15:14,400 --> 00:15:16,480
 even the feeling of profound inspiration.
+
+328
+00:15:16,480 --> 00:15:17,760
 That one hurts the most, I think.
+
+329
+00:15:18,320 --> 00:15:22,160
 The idea that feeling inspired to create art or build something new
+
+330
+00:15:22,160 --> 00:15:23,840
 isn't a touch of the divine,
+
+331
+00:15:23,840 --> 00:15:25,520
 but just another survival tool.
+
+332
+00:15:26,000 --> 00:15:28,960
 Feelings of ambition or inspiration drive organisms
+
+333
+00:15:28,960 --> 00:15:31,200
 to overcome environmental obstacles,
+
+334
+00:15:31,200 --> 00:15:34,080
 secure more resources and elevate their status
+
+335
+00:15:34,080 --> 00:15:35,600
 within a social hierarchy.
+
+336
+00:15:35,600 --> 00:15:39,680
 And all of that drastically improves the odds of survival and reproduction.
+
+337
+00:15:40,480 --> 00:15:43,600
 Every emotion, no matter how sacred it feels from the inside,
+
+338
+00:15:44,240 --> 00:15:46,880
 is just a nervous system configuration designed
+
+339
+00:15:46,880 --> 00:15:48,640
 to navigate a physical environment.
+
+340
+00:15:48,640 --> 00:15:51,600
 The universe doesn't care if you feel joy or despair.
+
+341
+00:15:51,600 --> 00:15:54,240
 Your brain just uses those emotional states
+
+342
+00:15:54,240 --> 00:15:56,000
 as internal carrots and sticks.
+
+343
+00:15:56,000 --> 00:15:59,840
 There is absolutely no inherent cosmic honor in any of it.
+
+344
+00:15:59,840 --> 00:16:02,240
 Let's turn the scalpel toward another massive pillar
+
+345
+00:16:02,240 --> 00:16:05,360
 of human meaning, greatness and ambition.
+
+346
+00:16:05,360 --> 00:16:07,520
 We build monuments to historical figures.
+
+347
+00:16:07,520 --> 00:16:09,040
 We obsess over visionaries.
+
+348
+00:16:09,120 --> 00:16:11,680
 The author points to figures like tech CEO Jensen Huang
+
+349
+00:16:11,680 --> 00:16:12,640
 or Albert Einstein.
+
+350
+00:16:13,200 --> 00:16:16,320
 We treat their achievements driving technological innovation,
+
+351
+00:16:16,320 --> 00:16:17,760
 unraveling the laws of physics
+
+352
+00:16:17,760 --> 00:16:20,000
 as the absolute pinnacle of human worth.
+
+353
+00:16:20,000 --> 00:16:21,040
 But why?
+
+354
+00:16:21,040 --> 00:16:24,720
 Why is a human building a supercomputer inherently more valuable
+
+355
+00:16:24,720 --> 00:16:26,640
 or honorable than a beaver building a dam?
+
+356
+00:16:27,360 --> 00:16:30,240
 Or, frankly, more honorable than the intricate
+
+357
+00:16:30,240 --> 00:16:33,200
 mathematical perfection of a hurricane forming over the ocean?
+
+358
+00:16:33,200 --> 00:16:35,280
 When you trace the logic all the way down,
+
+359
+00:16:36,000 --> 00:16:38,960
 you find that our worship of human greatness
+
+360
+00:16:38,960 --> 00:16:40,800
 is a completely closed loop.
+
+361
+00:16:40,800 --> 00:16:44,240
 We honor human achievements because we are humans,
+
+362
+00:16:44,240 --> 00:16:46,720
 operating inside a human-centric culture
+
+363
+00:16:46,720 --> 00:16:49,600
 that invented the concept of achievement in the first place.
+
+364
+00:16:49,600 --> 00:16:51,760
 We built the game, wrote the rules,
+
+365
+00:16:51,760 --> 00:16:53,040
 designed the scoreboard,
+
+366
+00:16:53,040 --> 00:16:56,000
 and now we bow down to the people who rack up the most points.
+
+367
+00:16:56,000 --> 00:16:56,960
 It's totally circular.
+
+368
+00:16:56,960 --> 00:16:59,360
 We honor this because this is what our species does.
+
+369
+00:16:59,360 --> 00:17:01,920
 There's no foundation beneath the four boards,
+
+370
+00:17:01,920 --> 00:17:04,240
 which naturally leads people to try and zoom out, right?
+
+371
+00:17:04,320 --> 00:17:05,840
 When individual meaning fails,
+
+372
+00:17:05,840 --> 00:17:07,440
 we usually try to attach ourselves
+
+373
+00:17:07,440 --> 00:17:09,680
 to a massive collective philosophy.
+
+374
+00:17:09,680 --> 00:17:10,800
 The isms.
+
+375
+00:17:10,800 --> 00:17:13,440
 Humanism is the dominant one in the secular world.
+
+376
+00:17:13,440 --> 00:17:15,040
 The belief that the ultimate good
+
+377
+00:17:15,040 --> 00:17:17,280
 is the flourishing and progress of the human race.
+
+378
+00:17:17,280 --> 00:17:18,560
 It sounds unassailable.
+
+379
+00:17:18,560 --> 00:17:21,920
 I mean, who wants to argue against the flourishing of humanity?
+
+380
+00:17:21,920 --> 00:17:24,240
 But the scalpel demands we ask.
+
+381
+00:17:24,240 --> 00:17:25,520
 Why humanism?
+
+382
+00:17:25,520 --> 00:17:28,000
 If you are relying purely on rationality,
+
+383
+00:17:28,000 --> 00:17:30,160
 you cannot logically prove that humanism
+
+384
+00:17:30,160 --> 00:17:31,680
 is the correct viewpoint.
+
+385
+00:17:31,680 --> 00:17:33,120
 Why not animalism,
+
+386
+00:17:33,120 --> 00:17:37,120
 where we value the flourishing of all sentient life equally,
+
+387
+00:17:37,120 --> 00:17:38,640
 which would mean human convenience
+
+388
+00:17:38,640 --> 00:17:41,520
 must be radically sacrificed for the comfort of livestock,
+
+389
+00:17:41,520 --> 00:17:43,760
 or take it even further to what the author calls,
+
+390
+00:17:43,760 --> 00:17:45,040
 Earthism,
+
+391
+00:17:45,040 --> 00:17:48,080
 valuing the flourishing of the entire planetary ecosystem
+
+392
+00:17:48,080 --> 00:17:49,760
 above any single species.
+
+393
+00:17:49,760 --> 00:17:51,520
 If you adopt Earthism,
+
+394
+00:17:51,520 --> 00:17:54,000
 humanism suddenly looks like a massive threat.
+
+395
+00:17:54,000 --> 00:17:57,040
 The author brings in a phenomenal pop culture reference here,
+
+396
+00:17:57,040 --> 00:17:58,560
 Agent Smith from The Matrix.
+
+397
+00:17:58,560 --> 00:17:59,840
 No, I love this part.
+
+398
+00:17:59,840 --> 00:18:02,160
 Agent Smith famously interrogates Morpheus
+
+399
+00:18:02,160 --> 00:18:04,400
 and describes humanity not as a mammal,
+
+400
+00:18:04,400 --> 00:18:05,760
 but as a virus,
+
+401
+00:18:05,760 --> 00:18:06,800
 a cancer of the planet
+
+402
+00:18:06,800 --> 00:18:08,560
 that endlessly consumes resources
+
+403
+00:18:08,560 --> 00:18:09,920
 until the host is dead.
+
+404
+00:18:09,920 --> 00:18:11,760
 From the perspective of Earthism,
+
+405
+00:18:11,760 --> 00:18:12,800
 wiping out humanity
+
+406
+00:18:12,800 --> 00:18:15,520
 might be the most honorable, rational course of action.
+
+407
+00:18:15,520 --> 00:18:17,040
 Or what about alienism?
+
+408
+00:18:17,040 --> 00:18:18,720
 The idea that we should prioritize
+
+409
+00:18:18,720 --> 00:18:20,480
 the flourishing of some hyper-advanced
+
+410
+00:18:20,480 --> 00:18:21,840
 intergalactic intelligence
+
+411
+00:18:21,840 --> 00:18:23,680
 that views us the way we view ants.
+
+412
+00:18:23,680 --> 00:18:25,280
 The underlying philosophical point
+
+413
+00:18:25,280 --> 00:18:27,040
 is that none of these elizisms
+
+414
+00:18:27,040 --> 00:18:28,800
 can be grounded in anything deeper
+
+415
+00:18:28,800 --> 00:18:30,560
 than an arbitrary starting premise.
+
+416
+00:18:31,360 --> 00:18:32,960
 Rationality is a mechanism
+
+417
+00:18:32,960 --> 00:18:35,520
 for moving from premise A to conclusion B.
+
+418
+00:18:35,520 --> 00:18:37,200
 It cannot prove premise A.
+
+419
+00:18:37,200 --> 00:18:38,560
 You have to blindly assume
+
+420
+00:18:38,560 --> 00:18:40,560
 that human life is the most valuable thing
+
+421
+00:18:40,560 --> 00:18:42,480
 in order to argue for humanism.
+
+422
+00:18:42,480 --> 00:18:43,760
 You can't use logic
+
+423
+00:18:43,760 --> 00:18:45,120
 to prove the very premise
+
+424
+00:18:45,120 --> 00:18:46,720
 that logic requires to function.
+
+425
+00:18:46,720 --> 00:18:48,640
 And this is the moment we hit the bottom.
+
+426
+00:18:48,640 --> 00:18:50,640
 We have deconstructed love,
+
+427
+00:18:50,640 --> 00:18:51,840
 emotion,
+
+428
+00:18:51,840 --> 00:18:52,960
 greatness,
+
+429
+00:18:52,960 --> 00:18:55,040
 and every grand philosophy.
+
+430
+00:18:55,040 --> 00:18:56,800
 Every single standpoint dissolves
+
+431
+00:18:56,800 --> 00:18:58,160
 under the pressure of the scalpel.
+
+432
+00:18:58,160 --> 00:18:59,600
 The author states the reality
+
+433
+00:18:59,600 --> 00:19:02,160
 of the situation with brutal clarity.
+
+434
+00:19:02,160 --> 00:19:03,520
 There is, in this sense,
+
+435
+00:19:03,520 --> 00:19:05,920
 nothing honorable to do in this world period.
+
+436
+00:19:05,920 --> 00:19:06,720
 I want to pause here
+
+437
+00:19:06,720 --> 00:19:08,880
 because it is so easy to misinterpret this
+
+438
+00:19:08,880 --> 00:19:10,960
 as just dark edgy nihilism.
+
+439
+00:19:10,960 --> 00:19:11,280
 Right.
+
+440
+00:19:11,280 --> 00:19:13,440
 It feels like we're just saying everything is trash.
+
+441
+00:19:13,440 --> 00:19:15,280
 But the author leans on David Hume,
+
+442
+00:19:15,280 --> 00:19:17,280
 the 18th century Scottish philosopher,
+
+443
+00:19:17,840 --> 00:19:19,840
 and his famous isot distinction
+
+444
+00:19:19,840 --> 00:19:21,440
 to clarify this void.
+
+445
+00:19:21,440 --> 00:19:23,520
 Hume's insight is crucial here.
+
+446
+00:19:23,520 --> 00:19:25,760
 He pointed out that you cannot deduce
+
+447
+00:19:25,760 --> 00:19:26,800
 an ought,
+
+448
+00:19:26,800 --> 00:19:28,080
 a moral imperative
+
+449
+00:19:28,240 --> 00:19:29,680
 about how things should be
+
+450
+00:19:29,680 --> 00:19:30,880
 from an is,
+
+451
+00:19:30,880 --> 00:19:33,360
 a factual observation about how things are.
+
+452
+00:19:33,360 --> 00:19:35,040
 Just because we use the scalpel
+
+453
+00:19:35,040 --> 00:19:37,120
 to discover that love is a biological trick
+
+454
+00:19:37,120 --> 00:19:38,640
 to ensure reproduction
+
+455
+00:19:38,640 --> 00:19:40,320
 doesn't automatically mean love
+
+456
+00:19:40,320 --> 00:19:42,160
 ought to be abandoned as worthless.
+
+457
+00:19:42,160 --> 00:19:44,480
 The fact that our values have a contingent,
+
+458
+00:19:44,480 --> 00:19:46,640
 evolutionary, random origin
+
+459
+00:19:46,640 --> 00:19:49,120
 doesn't automatically dictate their normative status.
+
+460
+00:19:49,120 --> 00:19:51,280
 It doesn't mean they are inherently trash.
+
+461
+00:19:51,280 --> 00:19:53,840
 The specific phrasing the author uses is vital.
+
+462
+00:19:54,560 --> 00:19:56,000
 These things aren't meaningless.
+
+463
+00:19:56,000 --> 00:19:57,840
 They just lack a cosmic warrant.
+
+464
+00:19:57,840 --> 00:19:59,200
 A cosmic warrant.
+
+465
+00:19:59,200 --> 00:20:00,480
 I love that term.
+
+466
+00:20:00,480 --> 00:20:02,080
 The universe didn't sign a certificate
+
+467
+00:20:02,080 --> 00:20:03,520
 guaranteeing that your ambition
+
+468
+00:20:03,520 --> 00:20:05,920
 or your compassion has objective value.
+
+469
+00:20:05,920 --> 00:20:08,480
 There is no supreme judge keeping score.
+
+470
+00:20:08,480 --> 00:20:09,520
 The void is real,
+
+471
+00:20:09,520 --> 00:20:10,720
 the universe is silent,
+
+472
+00:20:10,720 --> 00:20:12,000
 and there is no safety net.
+
+473
+00:20:12,000 --> 00:20:13,120
 And if we stop here,
+
+474
+00:20:13,120 --> 00:20:14,320
 we are stranded.
+
+475
+00:20:14,320 --> 00:20:15,680
 We're completely paralyzed
+
+476
+00:20:15,680 --> 00:20:17,360
 and pure nihilism.
+
+477
+00:20:17,360 --> 00:20:18,880
 But the author makes a fascinating
+
+478
+00:20:18,880 --> 00:20:20,640
 self-correction regarding their own
+
+479
+00:20:20,640 --> 00:20:21,920
 intellectual journey.
+
+480
+00:20:21,920 --> 00:20:23,280
 They realize that reason got them
+
+481
+00:20:23,280 --> 00:20:24,320
 to the bottom of the void,
+
+482
+00:20:24,320 --> 00:20:26,320
 but it fundamentally lacked the machinery
+
+483
+00:20:26,320 --> 00:20:27,200
 to get them out.
+
+484
+00:20:27,280 --> 00:20:29,040
 If rationality is so powerful,
+
+485
+00:20:29,040 --> 00:20:30,400
 why can't it rebuild meaning?
+
+486
+00:20:30,960 --> 00:20:33,360
 Because of the nature of the tool itself,
+
+487
+00:20:33,360 --> 00:20:35,200
 rationality is a scalpel.
+
+488
+00:20:35,200 --> 00:20:36,720
 It is an instrument of division,
+
+489
+00:20:36,720 --> 00:20:37,920
 of dissection.
+
+490
+00:20:37,920 --> 00:20:39,520
 It cuts away disease tissue
+
+491
+00:20:39,520 --> 00:20:41,200
 and severs illusions,
+
+492
+00:20:41,200 --> 00:20:43,920
 but you cannot use a scalpel to grow a garden.
+
+493
+00:20:43,920 --> 00:20:46,320
 You cannot deduce your way into a meaningful life.
+
+494
+00:20:46,320 --> 00:20:48,080
 If you rely purely on logic,
+
+495
+00:20:48,080 --> 00:20:50,000
 you just stand in an empty field,
+
+496
+00:20:50,000 --> 00:20:51,360
 holding a sharp knife,
+
+497
+00:20:51,360 --> 00:20:53,280
 surrounded by the shredded pieces
+
+498
+00:20:53,280 --> 00:20:54,640
 of your cultural programming.
+
+499
+00:20:54,640 --> 00:20:57,280
 Rationality cleared the plot of land perfectly,
+
+500
+00:20:57,280 --> 00:20:59,040
 but it has no seeds to plant.
+
+501
+00:20:59,040 --> 00:21:00,320
 The return to living
+
+502
+00:21:00,320 --> 00:21:02,560
 requires a completely different mechanism.
+
+503
+00:21:02,560 --> 00:21:03,920
 We need a second engine.
+
+504
+00:21:03,920 --> 00:21:05,520
 To define the second engine,
+
+505
+00:21:05,520 --> 00:21:08,240
 the author points to what we broadly call wisdom
+
+506
+00:21:08,240 --> 00:21:10,000
 and draws on three distinct
+
+507
+00:21:10,000 --> 00:21:12,080
 philosophical traditions to explain it.
+
+508
+00:21:12,080 --> 00:21:14,800
 First is Aristotle's concept of frenesis
+
+509
+00:21:14,800 --> 00:21:16,160
 or practical wisdom.
+
+510
+00:21:16,160 --> 00:21:18,720
 This isn't book smarts or logical deduction.
+
+511
+00:21:18,720 --> 00:21:20,720
 It's the lived intuitive knowledge
+
+512
+00:21:20,720 --> 00:21:22,400
 of how to act in complex,
+
+513
+00:21:22,400 --> 00:21:24,240
 mythy human situations
+
+514
+00:21:24,240 --> 00:21:26,000
 where strict rules break down.
+
+515
+00:21:26,000 --> 00:21:28,480
 Second, they invoke Jean-Paul Sart
+
+516
+00:21:28,480 --> 00:21:30,560
 and the existentialist tradition.
+
+517
+00:21:30,560 --> 00:21:32,240
 The core of existentialism
+
+518
+00:21:32,240 --> 00:21:35,120
 is that existence precedes essence.
+
+519
+00:21:35,120 --> 00:21:37,120
 You exist first in the void
+
+520
+00:21:37,120 --> 00:21:39,280
 and you must actively choose your essence.
+
+521
+00:21:39,280 --> 00:21:42,000
 You don't discover your path through logic.
+
+522
+00:21:42,000 --> 00:21:44,800
 You forge it through bold, unjustified choice.
+
+523
+00:21:44,800 --> 00:21:47,360
 And the third, which I think is just the most beautiful,
+
+524
+00:21:47,360 --> 00:21:49,680
 comes back to Mahayana Buddhism.
+
+525
+00:21:49,680 --> 00:21:51,200
 It's the idea of compassion,
+
+526
+00:21:51,360 --> 00:21:53,120
 that arises spontaneously
+
+527
+00:21:53,120 --> 00:21:55,200
 from the realization of emptiness calm.
+
+528
+00:21:55,200 --> 00:21:57,440
 In the West, we usually equate emptiness
+
+529
+00:21:57,440 --> 00:21:58,800
 with a cold dead vacuum.
+
+530
+00:21:59,760 --> 00:22:01,040
 But in this tradition,
+
+531
+00:22:01,040 --> 00:22:02,400
 truly realizing the void,
+
+532
+00:22:02,400 --> 00:22:04,720
 realizing that you and everyone around you
+
+533
+00:22:04,720 --> 00:22:08,400
 lack any permanent, inherent self or cosmic armor.
+
+534
+00:22:08,400 --> 00:22:09,760
 Doesn't breed apathy.
+
+535
+00:22:09,760 --> 00:22:11,840
 It breeds profound empathy.
+
+536
+00:22:11,840 --> 00:22:14,240
 You see the sheer vulnerability of being alive
+
+537
+00:22:14,240 --> 00:22:16,160
 and compassion is the natural response
+
+538
+00:22:16,160 --> 00:22:18,720
 of an awakened mind to that shared vulnerability.
+
+539
+00:22:18,720 --> 00:22:20,000
 The author gives us an analogy
+
+540
+00:22:20,000 --> 00:22:21,840
 that perfectly unifies all these concepts.
+
+541
+00:22:21,840 --> 00:22:22,320
 Yeah.
+
+542
+00:22:22,320 --> 00:22:23,520
 Reason is the scalpel.
+
+543
+00:22:23,520 --> 00:22:25,840
 Wisdom is the hand that knows when to put the scalpel down.
+
+544
+00:22:25,840 --> 00:22:27,840
 It perfectly captures the tension.
+
+545
+00:22:28,400 --> 00:22:30,720
 I want you to think about this dynamic in your own life.
+
+546
+00:22:31,440 --> 00:22:32,960
 We all know someone or maybe,
+
+547
+00:22:32,960 --> 00:22:33,840
 you know, we've been this person
+
+548
+00:22:33,840 --> 00:22:35,360
 who cannot put the scalpel down.
+
+549
+00:22:35,360 --> 00:22:37,200
 They hyperanalyze everything.
+
+550
+00:22:37,200 --> 00:22:37,920
 Everything.
+
+551
+00:22:37,920 --> 00:22:40,320
 They dissect their romantic relationships,
+
+552
+00:22:40,320 --> 00:22:42,240
 reading into every single text message
+
+553
+00:22:42,240 --> 00:22:43,600
 and tone of voice,
+
+554
+00:22:43,600 --> 00:22:46,640
 logically deconstructing their partners' motives
+
+555
+00:22:46,640 --> 00:22:48,720
 until the relationship essentially
+
+556
+00:22:48,720 --> 00:22:50,560
 bleeds out on the operating table.
+
+557
+00:22:50,560 --> 00:22:52,560
 Or they analyze a career passion
+
+558
+00:22:52,560 --> 00:22:54,000
 until they logically prove it's
+
+559
+00:22:54,000 --> 00:22:56,080
 statistically unlikely to succeed
+
+560
+00:22:56,080 --> 00:22:57,360
 and they lose all joy in it.
+
+561
+00:22:57,360 --> 00:23:00,000
 The purely rational person stays in the void
+
+562
+00:23:00,000 --> 00:23:01,760
 shredding everything they touch.
+
+563
+00:23:01,760 --> 00:23:04,160
 But the wise person uses the scalpel
+
+564
+00:23:04,160 --> 00:23:06,080
 to cut away toxic illusions
+
+565
+00:23:06,080 --> 00:23:07,600
 like the pressure to conform
+
+566
+00:23:07,600 --> 00:23:09,920
 to society's definition of success
+
+567
+00:23:09,920 --> 00:23:12,240
 and then deliberately puts the blade away.
+
+568
+00:23:12,240 --> 00:23:14,960
 They consciously decide to experience the relationship.
+
+569
+00:23:15,040 --> 00:23:16,800
 They choose to paint the canvas,
+
+570
+00:23:16,800 --> 00:23:18,640
 knowing the cosmos doesn't care,
+
+571
+00:23:18,640 --> 00:23:19,920
 but choosing to care anyway.
+
+572
+00:23:19,920 --> 00:23:22,160
 Which brings us to the actual act of living,
+
+573
+00:23:22,160 --> 00:23:23,840
 what the author calls the return.
+
+574
+00:23:24,400 --> 00:23:26,160
 With the scalpel safely sheebed,
+
+575
+00:23:26,160 --> 00:23:28,320
 how do we step back out into the world?
+
+576
+00:23:28,320 --> 00:23:29,520
 Having looked into the void
+
+577
+00:23:29,520 --> 00:23:31,840
 and accepted that no value survives
+
+578
+00:23:31,840 --> 00:23:33,600
 strict rational scrutiny,
+
+579
+00:23:33,600 --> 00:23:36,160
 the author's response is incredibly grounding.
+
+580
+00:23:36,960 --> 00:23:38,160
 I came back to the human.
+
+581
+00:23:38,800 --> 00:23:40,400
 Back to the messy, illogical,
+
+582
+00:23:40,400 --> 00:23:43,280
 contingent attachments of an actual life,
+
+583
+00:23:43,280 --> 00:23:44,560
 back to loving your family,
+
+584
+00:23:44,640 --> 00:23:45,920
 caring about your friends,
+
+585
+00:23:45,920 --> 00:23:47,200
 crying at movies,
+
+586
+00:23:47,200 --> 00:23:50,480
 but the entire context of why we do these things
+
+587
+00:23:50,480 --> 00:23:52,080
 has fundamentally shifted.
+
+588
+00:23:52,080 --> 00:23:53,520
 We aren't returning to these things
+
+589
+00:23:53,520 --> 00:23:56,640
 because we suddenly found a hidden cosmic warrant for them.
+
+590
+00:23:56,640 --> 00:23:59,040
 We already prove that doesn't exist.
+
+591
+00:23:59,040 --> 00:24:01,440
 We return to them simply because we are human.
+
+592
+00:24:01,440 --> 00:24:03,440
 There is no view from nowhere.
+
+593
+00:24:03,440 --> 00:24:04,880
 We can't float in the void
+
+594
+00:24:04,880 --> 00:24:07,040
 as pure nodes of disembodied logic.
+
+595
+00:24:07,040 --> 00:24:08,400
 We are flesh, blood,
+
+596
+00:24:08,400 --> 00:24:10,560
 neurochemistry, and social needs.
+
+597
+00:24:10,560 --> 00:24:14,160
 We are thrown in this specific biological and cultural form.
+
+598
+00:24:14,160 --> 00:24:17,600
 The human experience is the only material we have to work with.
+
+599
+00:24:17,600 --> 00:24:20,000
 So these connections and emotions become valuable,
+
+600
+00:24:20,000 --> 00:24:22,400
 not because they are objective universal truths,
+
+601
+00:24:22,400 --> 00:24:24,560
 but because they are the only ground available
+
+602
+00:24:24,560 --> 00:24:26,160
 for a human to stand on.
+
+603
+00:24:26,160 --> 00:24:28,480
 To really nail down the psychology of this return,
+
+604
+00:24:28,480 --> 00:24:30,480
 the author tinds to Seren Kierkegaard,
+
+605
+00:24:30,480 --> 00:24:32,240
 the 19th century Danish philosopher
+
+606
+00:24:32,240 --> 00:24:34,480
 and his concept of the Knight of Faith.
+
+607
+00:24:34,480 --> 00:24:38,000
 Kierkegaard describes a profound double movement.
+
+608
+00:24:38,720 --> 00:24:42,240
 The first movement is infinite resignation,
+
+609
+00:24:42,320 --> 00:24:44,400
 which is everything we did with the scalpel,
+
+610
+00:24:44,400 --> 00:24:46,640
 surrendering our demand for cosmic meaning,
+
+611
+00:24:46,640 --> 00:24:48,160
 accepting the void,
+
+612
+00:24:48,160 --> 00:24:51,840
 resigning ourselves to the fact that the universe owes us absolutely nothing.
+
+613
+00:24:51,840 --> 00:24:53,520
 A lot of philosophers stop there.
+
+614
+00:24:53,520 --> 00:24:56,000
 They become knights of infinite resignation,
+
+615
+00:24:56,000 --> 00:24:57,920
 detached, cynical,
+
+616
+00:24:57,920 --> 00:24:59,440
 hovering above the world.
+
+617
+00:24:59,440 --> 00:25:02,480
 But the Knight of Faith makes the crucial second movement,
+
+618
+00:25:03,520 --> 00:25:06,880
 a total passionate return to the finite world.
+
+619
+00:25:06,880 --> 00:25:10,240
 The Knight of Faith dives back into the messy reality of life
+
+620
+00:25:10,240 --> 00:25:13,120
 and loves it completely as if it had absolute meaning
+
+621
+00:25:13,120 --> 00:25:16,320
 while simultaneously knowing with perfect clarity that it does not.
+
+622
+00:25:16,320 --> 00:25:18,800
 It's a paradox. Total release,
+
+623
+00:25:18,800 --> 00:25:20,720
 followed immediately by total engagement.
+
+624
+00:25:21,360 --> 00:25:24,240
 Now, when I first read this, my immediate reaction was skepticism.
+
+625
+00:25:24,240 --> 00:25:26,720
 Doesn't this just sound like an intellectual cop out?
+
+626
+00:25:26,720 --> 00:25:28,880
 Aren't we just plugging ourselves back into the matrix
+
+627
+00:25:28,880 --> 00:25:32,320
 because the cold, hard desert of the real world was too depressing?
+
+628
+00:25:32,320 --> 00:25:34,720
 It feels like we're just choosing to be naive again.
+
+629
+00:25:34,720 --> 00:25:36,960
 It's the most common critique of existentialism.
+
+630
+00:25:36,960 --> 00:25:38,960
 Yeah, how is pretending something matters
+
+631
+00:25:38,960 --> 00:25:40,800
 when you know it does not naive?
+
+632
+00:25:40,800 --> 00:25:42,240
 Because of the order of operations.
+
+633
+00:25:42,960 --> 00:25:44,480
 If you never went through the dissolution,
+
+634
+00:25:44,480 --> 00:25:46,960
 if you never picked up the scalpel and faced the void,
+
+635
+00:25:46,960 --> 00:25:49,200
 then yes, blindly loving the world,
+
+636
+00:25:49,200 --> 00:25:51,120
 just because your culture told you to,
+
+637
+00:25:51,120 --> 00:25:53,120
 is naive sentimentalism.
+
+638
+00:25:53,120 --> 00:25:54,880
 You're just a battery in the matrix.
+
+639
+00:25:55,520 --> 00:25:57,680
 But if you have visited the void,
+
+640
+00:25:57,680 --> 00:25:59,280
 the return is transformed.
+
+641
+00:25:59,920 --> 00:26:02,880
 You are looking at the green scrolling code of the matrix.
+
+642
+00:26:02,880 --> 00:26:06,240
 You fully recognize that the state you're eating is a simulation.
+
+643
+00:26:06,800 --> 00:26:09,600
 But instead of sitting in a cold, gray hovercraft,
+
+644
+00:26:09,600 --> 00:26:12,800
 eating protein, gruel out of misplaced pride,
+
+645
+00:26:12,800 --> 00:26:15,120
 you consciously choose to sit at the table,
+
+646
+00:26:15,120 --> 00:26:16,560
 taste the simulated steak,
+
+647
+00:26:16,560 --> 00:26:18,800
 and enjoy the simulated sunset.
+
+648
+00:26:18,800 --> 00:26:20,720
 Because you recognize that the simulation
+
+649
+00:26:20,720 --> 00:26:23,440
 is the only reality your human form can inhabit.
+
+650
+00:26:23,440 --> 00:26:25,360
 As the author says, without the return,
+
+651
+00:26:25,360 --> 00:26:26,640
 the release would be sterile.
+
+652
+00:26:27,200 --> 00:26:28,400
 The void is sterile.
+
+653
+00:26:28,400 --> 00:26:30,640
 Returning after the release is a fully conscious,
+
+654
+00:26:30,640 --> 00:26:32,480
 open-eyed act of creation.
+
+655
+00:26:32,480 --> 00:26:34,960
 The power lies entirely in the choosing.
+
+656
+00:26:35,040 --> 00:26:38,640
 And this act of choosing brings up a massive philosophical paradox.
+
+657
+00:26:39,520 --> 00:26:42,480
 If we used rationality to dissolve our small,
+
+658
+00:26:42,480 --> 00:26:44,400
 culturally programmed ego,
+
+659
+00:26:44,400 --> 00:26:48,560
 if we prove that our self is just an illusion of biology and environment,
+
+660
+00:26:48,560 --> 00:26:51,040
 who exactly is the agent making this grand,
+
+661
+00:26:51,040 --> 00:26:53,600
 existential choice to return to the human?
+
+662
+00:26:53,600 --> 00:26:56,160
 Who is doing the choosing if the chooser doesn't exist?
+
+663
+00:26:56,160 --> 00:26:56,880
 Exactly.
+
+664
+00:26:56,880 --> 00:27:00,800
 The author answers this by diving deep into the Buddhist concept of Anata,
+
+665
+00:27:00,800 --> 00:27:02,000
 or no self.
+
+666
+00:27:02,000 --> 00:27:04,400
 This concept is heavily misunderstood in the West.
+
+667
+00:27:05,120 --> 00:27:07,440
 We tend to read Anata as a vacuum.
+
+668
+00:27:07,440 --> 00:27:11,280
 We think if there is no eye, then there is zero agency.
+
+669
+00:27:11,280 --> 00:27:13,680
 I must just be a passive leaf blowing in the wind
+
+670
+00:27:13,680 --> 00:27:15,280
 with no ability to make choices.
+
+671
+00:27:15,280 --> 00:27:17,680
 We equate selflessness with helplessness.
+
+672
+00:27:17,680 --> 00:27:20,480
 But the author points out that the deeper Mahayana Buddhist reading
+
+673
+00:27:20,480 --> 00:27:22,000
 is the exact reverse.
+
+674
+00:27:22,000 --> 00:27:25,440
 Desolving the illusion of the bounded self doesn't destroy agency,
+
+675
+00:27:25,440 --> 00:27:28,320
 it gives birth to total unbounded agency.
+
+676
+00:27:28,320 --> 00:27:32,320
 Let's visualize this because unbounded agency is a tough concept to grow.
+
+677
+00:27:32,320 --> 00:27:34,720
 Imagine a massive suburban landscape.
+
+678
+00:27:35,040 --> 00:27:37,840
 Every house has a tiny walled-off backyard.
+
+679
+00:27:37,840 --> 00:27:39,040
 Okay, I'm picturing it.
+
+680
+00:27:39,040 --> 00:27:41,520
 Your ego, your traditional sense of self,
+
+681
+00:27:41,520 --> 00:27:43,520
 is that tiny, fenced-in yard.
+
+682
+00:27:44,160 --> 00:27:47,120
 All of your daily desires, anxieties, and choices
+
+683
+00:27:47,120 --> 00:27:51,120
 are entirely focused on defending and enriching that little patch of grass.
+
+684
+00:27:51,760 --> 00:27:54,400
 You want your yard to be better than the neighbors.
+
+685
+00:27:54,400 --> 00:27:57,440
 You are terrified someone will throw trash over your fence.
+
+686
+00:27:57,440 --> 00:27:59,760
 You spend your whole life patrolling the perimeter.
+
+687
+00:27:59,760 --> 00:28:01,760
 That is the state of the bounded self.
+
+688
+00:28:01,760 --> 00:28:03,920
 High anxiety, limited perspective.
+
+689
+00:28:03,920 --> 00:28:06,480
 Now, imagine using the scalpel of rationality
+
+690
+00:28:06,480 --> 00:28:09,040
 to tear down every single fence in the neighborhood.
+
+691
+00:28:09,040 --> 00:28:10,400
 You don't stop existing.
+
+692
+00:28:10,400 --> 00:28:12,240
 Your yard doesn't vanish into a black hole.
+
+693
+00:28:12,800 --> 00:28:17,520
 But suddenly, the artificial boundary between my yard and your yard is gone.
+
+694
+00:28:17,520 --> 00:28:19,760
 You inhabit the entire landscape.
+
+695
+00:28:19,760 --> 00:28:21,360
 When the fences come down,
+
+696
+00:28:21,360 --> 00:28:24,480
 how does that fundamentally alter your desires and your choices?
+
+697
+00:28:24,480 --> 00:28:28,000
 The anxious defensive wanting of the tiny ego evaporates.
+
+698
+00:28:28,000 --> 00:28:30,240
 It is replaced by the wanting of the whole.
+
+699
+00:28:30,240 --> 00:28:33,840
 You no longer want to hoard fertilizer for your specific patch of grass
+
+700
+00:28:33,840 --> 00:28:35,600
 while the rest of the neighborhood dies.
+
+701
+00:28:35,600 --> 00:28:39,200
 You want the entire landscape to thrive because you are the landscape.
+
+702
+00:28:39,200 --> 00:28:42,000
 When the illusion of the small self is seen through,
+
+703
+00:28:42,000 --> 00:28:46,240
 the agent that remains isn't constrained to one terrified perspective.
+
+704
+00:28:46,240 --> 00:28:48,160
 You don't have zero agency.
+
+705
+00:28:48,160 --> 00:28:50,560
 You have the boundless agency of the whole.
+
+706
+00:28:50,560 --> 00:28:54,160
 This connects directly to the pinnacle of Mahayana Buddhist practice.
+
+707
+00:28:54,960 --> 00:28:56,160
 The Bodhisattva.
+
+708
+00:28:56,160 --> 00:28:59,760
 The Bodhisattva is a being who has achieved the ultimate release.
+
+709
+00:29:00,400 --> 00:29:03,280
 They have seen through the illusion of the bound itself
+
+710
+00:29:03,280 --> 00:29:05,440
 and realized the void of emptiness.
+
+711
+00:29:05,440 --> 00:29:09,120
 But instead of checking out of reality and dissolving into Nirvana,
+
+712
+00:29:09,120 --> 00:29:13,920
 they make a staggering vow to remain in the messy cycle of human existence
+
+713
+00:29:13,920 --> 00:29:17,680
 until every single sentient being is liberated.
+
+714
+00:29:17,680 --> 00:29:18,880
 Why on earth would they do that?
+
+715
+00:29:18,880 --> 00:29:21,680
 If they know it's all an illusion, why stay in the burning house?
+
+716
+00:29:21,680 --> 00:29:23,280
 Because there are no fences.
+
+717
+00:29:23,280 --> 00:29:24,960
 They act for the benefit of all beings,
+
+718
+00:29:24,960 --> 00:29:29,200
 precisely because the boundary between this being and other beings has been erased.
+
+719
+00:29:29,280 --> 00:29:31,840
 The return to the human marketplace isn't a retreat.
+
+720
+00:29:31,840 --> 00:29:32,640
 The author says,
+
+721
+00:29:32,640 --> 00:29:36,400
 I do not retreat back into my small self because the void was too cold.
+
+722
+00:29:36,400 --> 00:29:39,680
 The return is simply acting the way unbounded being acts
+
+723
+00:29:39,680 --> 00:29:42,240
 when it is poured into a specific human form.
+
+724
+00:29:42,240 --> 00:29:44,880
 You care for your family, you fight for justice,
+
+725
+00:29:44,880 --> 00:29:48,640
 you create art not out of a desperate ego-driven need
+
+726
+00:29:48,640 --> 00:29:50,880
 to justify your own existence.
+
+727
+00:29:50,880 --> 00:29:55,520
 But because care and creation are simply what a human form does
+
+728
+00:29:55,520 --> 00:29:58,000
 when it is free from the anxiety of the ego.
+
+729
+00:29:58,080 --> 00:30:01,600
 It is a radical, profound acceptance of our humanity.
+
+730
+00:30:02,320 --> 00:30:04,240
 Arriving back at the starting line,
+
+731
+00:30:04,240 --> 00:30:05,840
 not through naive ignorance,
+
+732
+00:30:05,840 --> 00:30:08,080
 but by walking all the way through the void
+
+733
+00:30:08,080 --> 00:30:09,440
 and coming out the other side.
+
+734
+00:30:09,440 --> 00:30:11,200
 We've covered an immense amount of ground today.
+
+735
+00:30:11,200 --> 00:30:12,880
 Let's pull this massive journey together.
+
+736
+00:30:12,880 --> 00:30:14,960
 The author has systematically demonstrated
+
+737
+00:30:14,960 --> 00:30:17,920
 that shouting into the night sky is anything honorable.
+
+738
+00:30:17,920 --> 00:30:19,520
 What is the meaning of my life?
+
+739
+00:30:19,520 --> 00:30:21,280
 Is fundamentally the wrong question?
+
+740
+00:30:21,280 --> 00:30:23,680
 The cosmos will always answer that question
+
+741
+00:30:23,680 --> 00:30:25,520
 with absolute chilling silence.
+
+742
+00:30:26,000 --> 00:30:28,960
 There is no inherent objective honor
+
+743
+00:30:28,960 --> 00:30:32,160
 in humanism, in ambition, or even in love.
+
+744
+00:30:32,160 --> 00:30:34,320
 Pretending there's some cosmic safety net
+
+745
+00:30:34,320 --> 00:30:35,920
 is intellectual dishonesty.
+
+746
+00:30:35,920 --> 00:30:38,000
 The correct question, the only question left standing
+
+747
+00:30:38,000 --> 00:30:39,840
 after this gable has done its work is
+
+748
+00:30:39,840 --> 00:30:41,680
 do I choose to honor anything?
+
+749
+00:30:41,680 --> 00:30:45,680
 And because you are an organism thrown into a human form,
+
+750
+00:30:45,680 --> 00:30:47,840
 the answer is almost certainly going to be yes,
+
+751
+00:30:48,800 --> 00:30:50,720
 which leads to the ultimate realization.
+
+752
+00:30:51,760 --> 00:30:53,520
 What do I choose to honor,
+
+753
+00:30:53,520 --> 00:30:55,120
 knowing with absolute certainty
+
+754
+00:30:55,120 --> 00:30:57,360
 that the honoring is the work of my own hands
+
+755
+00:30:57,360 --> 00:31:00,080
 and not a verdict handed down by the stars?
+
+756
+00:31:00,080 --> 00:31:02,160
 That shift from discovering meaning
+
+757
+00:31:02,160 --> 00:31:05,520
 to consciously creating it is the ultimate empowerment.
+
+758
+00:31:05,520 --> 00:31:09,040
 True agency doesn't belong to society's expectations.
+
+759
+00:31:09,040 --> 00:31:11,520
 It doesn't belong to a rigid cosmic order.
+
+760
+00:31:11,520 --> 00:31:13,680
 It belongs exclusively to your own hands
+
+761
+00:31:13,680 --> 00:31:16,320
 as you extend them back into the human marketplace.
+
+762
+00:31:16,320 --> 00:31:19,760
 You choose to care, fully aware that there is no underlying why.
+
+763
+00:31:20,400 --> 00:31:22,560
 The author closes this profound exploration
+
+764
+00:31:22,640 --> 00:31:24,640
 by returning to a line from the diamond sutra.
+
+765
+00:31:25,680 --> 00:31:28,480
 Let the mind arise without dwelling anywhere.
+
+766
+00:31:28,480 --> 00:31:30,800
 Attached to nothing but present everywhere.
+
+767
+00:31:30,800 --> 00:31:33,760
 You don't dwell in the rigid concrete of dogmatic belief,
+
+768
+00:31:33,760 --> 00:31:36,480
 demanding that the universe validate your choices,
+
+769
+00:31:36,480 --> 00:31:40,400
 but you also don't dwell in the paralyzing cynical cold of the void.
+
+770
+00:31:40,400 --> 00:31:42,240
 You let your mind arise freely,
+
+771
+00:31:42,240 --> 00:31:44,720
 engaging with the world exactly where you are needed.
+
+772
+00:31:44,720 --> 00:31:46,000
 You see the illusion,
+
+773
+00:31:46,000 --> 00:31:48,400
 but your chop wood and carry water anyway,
+
+774
+00:31:48,400 --> 00:31:50,160
 with more care than ever before.
+
+775
+00:31:50,160 --> 00:31:53,760
 We open this deep dive by talking about foundations.
+
+776
+00:31:53,760 --> 00:31:55,360
 We want concrete.
+
+777
+00:31:55,360 --> 00:31:58,400
 We want unquestionable bedrock to build our lives on.
+
+778
+00:31:58,400 --> 00:32:00,720
 But what this essay forces us to realize
+
+779
+00:32:00,720 --> 00:32:03,520
 is that building on the void isn't a tragedy.
+
+780
+00:32:03,520 --> 00:32:06,640
 It is the absolute pinnacle of creative freedom.
+
+781
+00:32:06,640 --> 00:32:09,120
 You do not need the universe's permission
+
+782
+00:32:09,120 --> 00:32:11,440
 to build a beautiful, meaningful life.
+
+783
+00:32:11,440 --> 00:32:13,920
 The void is simply the cleared field
+
+784
+00:32:13,920 --> 00:32:15,920
 where wisdom finally gets the space
+
+785
+00:32:15,920 --> 00:32:17,680
 to plant something entirely new.
+
+786
+00:32:17,760 --> 00:32:20,080
 As we wrap up, I want to leave you the listener
+
+787
+00:32:20,080 --> 00:32:22,800
 with a scenario to turn over in your mind.
+
+788
+00:32:22,800 --> 00:32:24,880
 Imagine waking up tomorrow morning
+
+789
+00:32:24,880 --> 00:32:27,440
 and in that brief moment before you get out of bed,
+
+790
+00:32:27,440 --> 00:32:31,600
 you are fully, completely convinced of the reality we just explored.
+
+791
+00:32:31,600 --> 00:32:33,840
 The universe expects absolutely nothing of you.
+
+792
+00:32:33,840 --> 00:32:35,200
 There is no grand scoreboard.
+
+793
+00:32:35,200 --> 00:32:37,920
 Every social pressure, every cultural expectation,
+
+794
+00:32:37,920 --> 00:32:39,840
 every cosmic rule is a fiction.
+
+795
+00:32:39,840 --> 00:32:41,680
 You are standing in the cleared field
+
+796
+00:32:41,680 --> 00:32:43,440
 and the scalpel has done its work.
+
+797
+00:32:43,440 --> 00:32:45,520
 You have total unbounded freedom.
+
+798
+00:32:45,520 --> 00:32:48,000
 In that moment of absolute release,
+
+799
+00:32:48,000 --> 00:32:50,560
 what is the very first thing you would consciously choose
+
+800
+00:32:50,560 --> 00:32:51,760
 to care about anyway?
+
+801
+00:32:51,760 --> 00:32:53,200
 What is the first thing you would reach out
+
+802
+00:32:53,200 --> 00:32:54,800
 and touch in the marketplace?
+
+803
+00:32:54,800 --> 00:32:57,440
 Because whatever you choose in that moment,
+
+804
+00:32:58,640 --> 00:33:01,360
 that is where your actual life begins.
+
+805
+00:33:01,360 --> 00:33:04,320
 Thank you for joining us on this incredibly intense journey.
+
+806
+00:33:04,320 --> 00:33:06,880
 Keep questioning the map, keep choosing your essence
+
+807
+00:33:06,880 --> 00:33:08,960
 and most importantly, enjoy the messy,
+
+808
+00:33:08,960 --> 00:33:11,600
 beautiful, unwarranted reality of being human.
+
